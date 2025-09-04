@@ -19,7 +19,7 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #0056b3; /* Darkened footer background for contrast */
     color: white;
     position: fixed;
     width: 100%;
